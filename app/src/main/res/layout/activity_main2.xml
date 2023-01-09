@@ -39,11 +39,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="right"
-            android:background="#8c000000"
-            android:padding="10dp"
+            android:paddingLeft="200dp"
+            android:padding="180dp"
             android:text="navidad"
 
-            android:textColor="#ffe3e3e3"
+            android:textColor="@color/purple_200"
             android:textSize="30sp"
             android:textStyle="bold" />
 
